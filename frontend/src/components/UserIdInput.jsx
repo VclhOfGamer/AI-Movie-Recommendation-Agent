@@ -28,7 +28,7 @@ export default function UserIdInput({ onStart, loading }) {
     <div style={styles.wrap}>
       <div style={styles.card}>
         <div style={styles.icon}>🎬</div>
-        <h1 style={styles.title}>TrustedAI</h1>
+        <h1 style={styles.title}>AI Agent</h1>
         <p style={styles.sub}>Movie recommendations backed by real data</p>
 
         <div style={styles.field}>
