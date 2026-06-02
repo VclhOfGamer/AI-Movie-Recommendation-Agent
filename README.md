@@ -25,7 +25,8 @@ uvicorn main:app --reload --port 8000
 npm install
 npm run dev
 
-# Sample queries
+# Sample queries 
+Test on user id = 1 can give best recommendation
 - "What should I watch tonight?"
 - "I want a dark psychological thriller with a twist"
 - "What do people with similar taste to mine think about Pulp Fiction?"
